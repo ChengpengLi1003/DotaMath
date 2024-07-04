@@ -16,14 +16,12 @@ Qwen, Alibaba Inc.
 📚 <a href="">Dataset</a>
 </p>
 
+
+
 <p align="center">
-    <img src="[assets/csbench_logo_2.png](https://github.com/dongguanting/DotaMath/assets/60767110/92339cd7-80a0-4db7-b6d5-40a0f98c12d1)" width="30%"> <br>
-</p>
-
-
 ![image](https://github.com/dongguanting/DotaMath/assets/60767110/92339cd7-80a0-4db7-b6d5-40a0f98c12d1)
 
-
+</p>
 
 ⭐ **We will release the templates, and codes soon. Thanks for your attention!**
 
