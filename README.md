@@ -1,5 +1,14 @@
 # DotaMath: Decomposition of Thought with Code Assistance and Self-correction for Mathematical Reasoning
 
+*Chengpeng Li, Guanting Dong, Mingfeng Xue, Ru Peng, Xiang Wang, Dayiheng Liu*
+
+University of Science and Technology of China
+
+Qwen, Alibaba Inc.
+
+---
+
+
 
 <p>
 📃 <a href="">ArXiv Paper</a>
