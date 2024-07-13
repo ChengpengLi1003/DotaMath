@@ -24,7 +24,7 @@ If you find this work helpful for your research, please kindly cite it.
 ---
 
 <p>
-📃 <a href="">ArXiv Paper</a>
+📃 <a href="https://arxiv.org/pdf/2407.04078">ArXiv Paper</a>
   •
 📚 <a href="">Dataset</a>
 </p>
