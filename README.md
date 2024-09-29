@@ -13,10 +13,24 @@ If you find this work helpful for your research, please kindly cite it.
 
 ```bibtex
 @article{li2024dotamath,
-  title={DotaMath: Decomposition of Thought with Code Assistance and Self-correction for Mathematical Reasoning},
-  author={Li, Chengpeng and Dong, Guanting and Xue, Mingfeng and Peng, Ru and Wang, Xiang and Liu, Dayiheng},
-  journal={arXiv preprint arXiv:2407.04078},
-  year={2024}
+  author       = {Chengpeng Li and
+                  Guanting Dong and
+                  Mingfeng Xue and
+                  Ru Peng and
+                  Xiang Wang and
+                  Dayiheng Liu},
+  title        = {DotaMath: Decomposition of Thought with Code Assistance and Self-correction
+                  for Mathematical Reasoning},
+  journal      = {CoRR},
+  volume       = {abs/2407.04078},
+  year         = {2024},
+  url          = {https://doi.org/10.48550/arXiv.2407.04078},
+  doi          = {10.48550/ARXIV.2407.04078},
+  eprinttype    = {arXiv},
+  eprint       = {2407.04078},
+  timestamp    = {Wed, 07 Aug 2024 21:29:45 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2407-04078.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
 ---
