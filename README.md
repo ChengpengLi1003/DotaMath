@@ -38,18 +38,17 @@ If you find this work helpful for your research, please kindly cite it.
 <p>
 📃 <a href="https://arxiv.org/pdf/2407.04078">ArXiv Paper</a>
   •
-📚 <a href="">Dataset</a>
+📚 <a href="https://drive.google.com/drive/folders/1Hwey6ovYU2ERVox76e-3JTsJBe_PHOl6?usp=sharing">Dataset</a>
 </p>
 
 
+## 💥 News
+
+- [12/2024] 🔥 We released our DotaMathQA dataset! Download [DotaMathQA](https://drive.google.com/drive/folders/1Hwey6ovYU2ERVox76e-3JTsJBe_PHOl6?usp=sharing) here. 
+- [07/2024] 🔥 🔥 We introduced ***DotaMath***, a series of LLMs that employs the Decomposition of thought with code assistance and self-correction for mathematical reasoning. Check out the [paper](https://arxiv.org/pdf/2407.04078). 
 
 
-![image](https://github.com/dongguanting/DotaMath/assets/60767110/92339cd7-80a0-4db7-b6d5-40a0f98c12d1)
 
-
-
-
-⭐ **We will release the code and dataset soon. Thanks for your attention!**
 
 ## Introduction
 Large language models (LLMs) have made impressive progress in handling simple math problems, yet they still struggle with more challenging and complex mathematical tasks. In this paper, we introduce a series of LLMs that employs the Decomposition of thought with code assistance and self-correction for mathematical reasoning, dubbed as DotaMath. DotaMath models tackle complex mathematical tasks by decomposing them into simpler logical subtasks, leveraging code to solve these subtasks, obtaining fine-grained feedback from the code interpreter, and engaging in self-reflection and correction. By annotating diverse interactive tool-use trajectories and employing query evolution on GSM8K and MATH datasets, we generate an instruction fine-tuning dataset called DotaMathQA with 574K query-response pairs. We train a series of base LLMs using imitation learning on DotaMathQA, resulting in DotaMath
