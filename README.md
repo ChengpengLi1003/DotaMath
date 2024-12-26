@@ -1,10 +1,21 @@
-# DotaMath: Decomposition of Thought with Code Assistance and Self-correction for Mathematical Reasoning
+ # <div align="center"> 🔥DotaMath: Decomposition of Thought with Code Assistance and Self-correction for Mathematical Reasoning <div>
+
 
 *Chengpeng Li, Guanting Dong, Mingfeng Xue, Ru Peng, Xiang Wang, Dayiheng Liu*
 
 University of Science and Technology of China
 
 Qwen, Alibaba Inc.
+
+---
+
+<p>
+📃 <a href="https://arxiv.org/pdf/2407.04078">ArXiv Paper</a>  • 🤗 <a href="https://huggingface.co/datasets/dongguanting/DotamathQA">Dataset (Huggingface)</a>  • 📚 <a href="https://drive.google.com/drive/folders/1Hwey6ovYU2ERVox76e-3JTsJBe_PHOl6?usp=sharing">Dataset (Google drive)</a>
+</p>
+
+
+
+
 
 ---
 
@@ -34,13 +45,6 @@ If you find this work helpful for your research, please kindly cite it.
 }
 ```
 ---
-
-<p>
-📃 <a href="https://arxiv.org/pdf/2407.04078">ArXiv Paper</a>  • 🤗 <a href="https://huggingface.co/datasets/dongguanting/DotamathQA">Dataset (Huggingface)</a>  • 📚 <a href="https://drive.google.com/drive/folders/1Hwey6ovYU2ERVox76e-3JTsJBe_PHOl6?usp=sharing">Dataset (Google drive)</a>
-</p>
-
-
-
 
 ## 💥 News
 
