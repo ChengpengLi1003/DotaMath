@@ -10,15 +10,10 @@ Qwen, Alibaba Inc.
 
 </p align="center">
 
----
 
 <p align="center">
 📃 <a href="https://arxiv.org/pdf/2407.04078">ArXiv Paper</a>  • 🤗 <a href="https://huggingface.co/datasets/dongguanting/DotamathQA">Dataset (Huggingface)</a>  • 📚 <a href="https://drive.google.com/drive/folders/1Hwey6ovYU2ERVox76e-3JTsJBe_PHOl6?usp=sharing">Dataset (Google drive)</a>
 </p align="center">
-
-
-
-
 
 ---
 
